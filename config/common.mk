@@ -119,7 +119,6 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    AudioFX \
     CMSettingsProvider \
     CMUpdater \
     CustomTiles \
